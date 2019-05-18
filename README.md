@@ -1,2 +1,0 @@
-# Mywed
-Created with CodeSandbox
